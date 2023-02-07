@@ -7,7 +7,7 @@
 
   <li>👨‍🎓 Engenheiro de Computação em formação</li>
   <li>🌱 Atualmente estudando DevOps</li>
-  <li>😄 Pronouns: ele/dele</li>
+  <li>😄 Pronomes: ele/dele</li>
 
 <!---Contato--->
 ## Contato
