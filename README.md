@@ -1,6 +1,6 @@
 ## Olá eu sou Matheus Duarte
 
-- 🌱 Atualmente eu estou aprendendo DevOps
+- 🌱 Atualmente eu estou estudando DevOps
 - 📫 E-mail para contato: matheusduartesilv@gmail.com
 - 😄 Pronouns: ele/dele
 
