@@ -14,12 +14,15 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-duarte-ba0568149/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusduartesilv@gmail.com)
 
+<!---Skills--->
+## Skills
 <!--Score-->
+
 <div align="center">
-  
+  </br>
+  </br>
   <a href="https://github.com/MattheusDuarte">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattheusDuarte&show_icons=true&theme=github_dark&include_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusDuarte&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusDuarte&layout=compact&langs_count=10&theme=github_dark"/>
     
 </div>
