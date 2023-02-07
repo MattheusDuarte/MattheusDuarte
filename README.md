@@ -17,7 +17,7 @@
 <!---Skills--->
 ## Linguagens e Feramentas
 <a title=Docker href=# />
-  <img src=./assets/thumbnails/docker.png alt=Docker width=60 />
+  <img src=./assets/thumbnails/docker.png alt=Docker width=60 heigth= 60 />
 </a>
 <a title=Python href=# />
   <img src=./assets/thumbnails/python.png alt=Python width=60 />
