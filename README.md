@@ -6,7 +6,7 @@
 ## Sobre mim
 
   <li>👨‍🎓 Engenheiro de Computação em formação</li>
-  <li>🌱 Atualmente eu estou estudando DevOps</li>
+  <li>🌱 Atualmente estudando DevOps</li>
   <li>😄 Pronouns: ele/dele</li>
 
 <!---Contato--->
@@ -17,6 +17,7 @@
 <!---Skills--->
 ## Skills
 <!--Score-->
+
 
 <div align="center">
   </br>
