@@ -38,7 +38,7 @@
   <img src=./assets/thumbnails/ansible.svg alt=Ansible width=60 />
 </a>
 <a title=Terraform href=# >
-  <img src=./assets/thumbnails/ansible.svg alt=Ansible width=60 />
+  <img src=./assets/thumbnails/Terraform.svg alt=Ansible width=60 />
 </a>
 
 <div align="center">
