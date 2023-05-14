@@ -26,13 +26,13 @@
   <img src=./assets/thumbnails/docker.png alt=Docker width=60 heigth= 60 />
 </a>
 <a title=Git href=# >
-  <img src=./assets/thumbnails/git.svg alt=Vagrant width=60 />
+  <img src=./assets/thumbnails/git.svg alt=Git width=60 />
 </a>
 <a title=GitHub href=# >
-  <img src=./assets/thumbnails/github.svg alt=Vagrant width=60 />
+  <img src=./assets/thumbnails/github.svg alt=GitHub width=60 />
 </a>
-<a title=Git-Actions href=# >
-  <img src=./assets/thumbnails/githubactions.svg alt=Vagrant width=60 />
+<a title=GitHudActions href=# >
+  <img src=./assets/thumbnails/githubactions.svg alt=GitHudActions width=60 />
 </a>
 <a title=Kubernetes href=# />
   <img src=./assets/thumbnails/Kubernetes.png alt=Kubernetes width=60 />
@@ -44,7 +44,7 @@
   <img src=./assets/thumbnails/python.png alt=Python width=60 />
 </a>
 <a title=Terraform href=# >
-  <img src=./assets/thumbnails/Terraform.svg alt=Ansible width=60 />
+  <img src=./assets/thumbnails/Terraform.svg alt=Terraform width=60 />
 </a>
 <a title=Vagrant href=# >
   <img src=./assets/thumbnails/vagrant.svg alt=Vagrant width=60 />
