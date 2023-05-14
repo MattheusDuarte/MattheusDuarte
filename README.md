@@ -16,6 +16,9 @@
 
 <!---Skills--->
 ## Linguagens e Feramentas
+<a title=AWS href=# >
+  <img src=./assets/thumbnails/AWS.png alt=AWS width=60 />
+</a>
 <a title=Docker href=# />
   <img src=./assets/thumbnails/docker.png alt=Docker width=60 heigth= 60 />
 </a>
@@ -25,9 +28,6 @@
 <a title=Kubernetes href=# />
   <img src=./assets/thumbnails/Kubernetes.png alt=Kubernetes width=60 />
 </a>
-<a title=AWS href=# >
-  <img src=./assets/thumbnails/AWS.png alt=AWS width=60 />
-</a>
 <a title=Vagrant href=# >
   <img src=./assets/thumbnails/vagrant.svg alt=Vagrant width=60 />
 </a>
@@ -35,6 +35,9 @@
   <img src=./assets/thumbnails/linux.svg alt=Linux width=60 />
 </a>
 <a title=Ansible href=# >
+  <img src=./assets/thumbnails/ansible.svg alt=Ansible width=60 />
+</a>
+<a title=Terraform href=# >
   <img src=./assets/thumbnails/ansible.svg alt=Ansible width=60 />
 </a>
 
