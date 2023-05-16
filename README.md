@@ -29,7 +29,7 @@
   <img src=./assets/thumbnails/git.svg alt=Git width=60 />
 </a>
 <a title=GitHub href=# >
-  <img src=./assets/thumbnails/github.svg alt=GitHub width=60 />
+  <img src=./assets/thumbnails/Github.svg alt=GitHub width=60 />
 </a>
 <a title=GitHudActions href=# >
   <img src=./assets/thumbnails/githubactions.svg alt=GitHudActions width=60 />
