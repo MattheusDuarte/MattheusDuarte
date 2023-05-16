@@ -29,16 +29,22 @@
   <img src=./assets/thumbnails/git.svg alt=Git width=60 />
 </a>
 <a title=GitHub href=# >
-  <img src=./assets/thumbnails/Github.svg alt=GitHub width=60 />
+  <img src=./assets/thumbnails/GitHub.svg alt=GitHub width=60 />
 </a>
 <a title=GitHudActions href=# >
   <img src=./assets/thumbnails/githubactions.svg alt=GitHudActions width=60 />
+</a>
+<a title=Jenkins href=# >
+  <img src=./assets/thumbnails/jenkins-original.svg alt=Jenkins width=60 />
 </a>
 <a title=Kubernetes href=# />
   <img src=./assets/thumbnails/Kubernetes.png alt=Kubernetes width=60 />
 </a>
 <a title=Linux href=# >
   <img src=./assets/thumbnails/linux.svg alt=Linux width=60 />
+</a>
+<a title=Postgresql href=# >
+  <img src=./assets/thumbnails/postgresql.svg alt=Postgresql width=60 />
 </a>
 <a title=Python href=# />
   <img src=./assets/thumbnails/python.png alt=Python width=60 />
