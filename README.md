@@ -34,6 +34,9 @@
 <a title=GitHudActions href=# >
   <img src=./assets/thumbnails/githubactions.svg alt=GitHudActions width=60 />
 </a>
+<a title=Helm href=# >
+  <img src=./assets/thumbnails/helm.svg alt=helm width=60 />
+</a>
 <a title=Jenkins href=# >
   <img src=./assets/thumbnails/jenkins-original.svg alt=Jenkins width=60 />
 </a>
