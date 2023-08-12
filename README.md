@@ -6,7 +6,7 @@
 ## Sobre mim
 
   <li>👨‍🎓 Engenheiro de Computação em formação</li>
-  <li>🌱 Atualmente estudando DevOps</li>
+  <li>💻 Analista DevOps I</li>
   <li>😄 Pronomes: ele/dele</li>
 
 <!---Contato--->
